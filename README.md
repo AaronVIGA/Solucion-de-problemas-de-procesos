@@ -41,7 +41,7 @@ Pictures of the project working.
 |Diego Prado Chapa | [diegochapa01@live.com](mailto:diegochapa01@live.com) | [@DiegoPrado27](https://github.com/DiegoPrado27) |Electronic |
 |  | [](mailto:) | [](https://github.com/) | Result data decoding |
 |  | [](mailto: | [](https://github.com/) | Path finding |
-|  | [](mailto:) | [](https://github.com/) | Mechanics |
+|Aaron Villarreal Garza| [](mailto:) | [@AaronVIGA](https://github.com/) | Mechanics |
 
 
 ## References/Support links
